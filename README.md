@@ -1,6 +1,6 @@
 # CartTest
 
-A demo project implementing motion-carthage gem for RubyMotion
+A demo project implementing [motion-carthage](https://github.com/digitalfx/motion-carthage) gem for RubyMotion
 
 ## Build steps
 
@@ -15,5 +15,7 @@ Fetch and build frameworks
 Build and run the project
 
     rake
+
 Or
+
     rake device
